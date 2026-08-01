@@ -14,10 +14,11 @@ Over the last four quarters, blended monthly churn has risen from 1.9% to 2.7% w
 •	Are there network-quality black spots causing localised churn spikes?
 •	Which states and circles are losing the most subscribers?
 •	Do our retention campaigns actually keep customers, or are we wasting spend?
+
 3. Dataset Description
 I are provided 24 CSV files that together form the NexaTel database. Together they contain approximately 757,000 records and preserve full referential integrity through primary and foreign keys.
 
-3. Project Tasks & Deliverables
+4. Project Tasks & Deliverables
 The project is divided into 4 phases. Complete them in order — each phase builds on the last. The estimated time per phase is shown below.
 Phase	Deliverable	Skills Used	Difficulty
 Phase 1 (Week 1)	Data Loading, Cleaning & Quality Report	Python / Excel, Pandas	Beginner-Intermediate
