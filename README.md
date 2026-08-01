@@ -21,8 +21,12 @@ I are provided 24 CSV files that together form the NexaTel database. Together th
 4. Project Tasks & Deliverables
 The project is divided into 4 phases. Complete them in order — each phase builds on the last. The estimated time per phase is shown below.
 
-Phase	Deliverable	Skills Used	Difficulty
+#Phase	Deliverable	Skills Used	Difficulty
+
 Phase 1 (Week 1)	Data Loading, Cleaning & Quality Report	Python / Excel, Pandas	Beginner-Intermediate
+
 Phase 2 (Week 2)	Exploratory Data Analysis (EDA) with Charts	Pandas, Matplotlib / Seaborn	Intermediate
+
 Phase 3 (Week 2-3)	Churn KPI Calculations & Insights	Python / SQL / Excel	Intermediate
+
 Phase 4 (Week 3-4)	Dashboard + Management Summary Report	Power BI / Excel / Python	Intermediate
