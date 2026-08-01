@@ -6,6 +6,7 @@ I have been hired as a Junior Data Analyst at NexaTel Digital Services Pvt. Ltd.
 This project simulates a real-world analytics assignment. I will work with a realistic dataset covering the company's customer base and operations, containing roughly 757,000 records across 24 interconnected tables. My job is to clean, explore, analyse, and present the data in a way that helps non-technical managers understand who is churning, why, how much revenue is at risk, and what can be done about it.
 
 1.1  Business Context
+
 NexaTel operates as an integrated telecom provider serving customers across India. It sells across multiple product lines — Prepaid Mobile, Postpaid Mobile, 4G, 5G, Fiber Broadband, Enterprise Connectivity, IoT Solutions, Smart Home, and OTT Bundles. The platform accepts multiple payment methods including UPI, Credit Card, Debit Card, Net Banking, Wallet, Auto Debit, Cash, IMPS, NEFT, and RTGS, and serves metro, Tier-2, and Tier-3 cities.
 Over the last four quarters, blended monthly churn has risen from 1.9% to 2.7% while the cost of acquiring a new subscriber has climbed 22%. Management has the following pressing questions they need answered this quarter:
 •	Which plans and customer segments have the highest churn — and why?
@@ -18,6 +19,7 @@ Over the last four quarters, blended monthly churn has risen from 1.9% to 2.7% w
 I are provided 24 CSV files that together form the NexaTel database. Together they contain approximately 757,000 records and preserve full referential integrity through primary and foreign keys.
 
 2.1  Files Provided
+
 File	Records	Size	Description
 customers.csv	19,076	4.5 MB	Customer profiles, segment, plan, tenure, churn status
 subscriptions.csv	20,523	1.2 MB	Active and terminated subscriptions per customer
@@ -45,6 +47,7 @@ states.csv	36	< 1 KB	Indian states and union territories
 data_quality_issue_log.csv	20	< 1 KB	Catalogue of intentionally injected DQ issues
 
 2.2  Key Columns Reference
+
 Below are the most important columns I will use throughout this project. Refer to the full Data Dictionary for every column definition.
 customers.csv — The Central Table
 Column	Type	Example	Description
